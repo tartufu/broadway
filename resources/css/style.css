@@ -13,7 +13,39 @@ body{
   font-weight: bold;
 }
 
-.nav-links {
+.nav-links a {
   font-size:18px;
+  color: white;
+}
+
+.process h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+
+.process h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.process p {
+  font-size: 14px;
+}
+
+.new-york {
+  background-image: url("../images/the-flatiron-building.png");
+  color: white;
+}
+
+footer {
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+
+footer a {
   color: white;
 }
